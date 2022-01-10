@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yelandes
 - 👀 I’m interested in graphic design
 - 🌱 I’m currently learning design trends and creative softwares
-- 📫 How to reach me via email at marielleandes.ma@gmail.com
+- 📫 Reach me via email at marielleandes.ma@gmail.com
 
 <!---
 yelandes/yelandes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
